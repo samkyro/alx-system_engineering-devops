@@ -1,0 +1,3 @@
+#!/bin/bash
+echo $((26 ** 2 -1))
+echo
