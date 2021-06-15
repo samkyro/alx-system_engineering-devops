@@ -1,0 +1,15 @@
+HOSTNAME=9182bc95c038
+LANGUAGE=en_US:en
+PWD=/root/alx-system_engineering-devops/0x03-shell_variables_expansions
+TZ=America/Los_Angeles
+HOME=/root
+LANG=en_US.UTF-8
+LS_COLORS=rs=0:di=01
+LESSCLOSE=/usr/bin/lesspipe %s %s
+TERM=xterm
+LESSOPEN=| /usr/bin/lesspipe %s
+SHLVL=1
+LC_ALL=en_US.UTF-8
+PATH=/root/action:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+OLDPWD=/root/alx-system_engineering-devops
+_=/usr/bin/env
