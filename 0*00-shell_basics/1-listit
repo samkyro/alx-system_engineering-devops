@@ -1,0 +1,2 @@
+#!/bin/bash
+echo"ls command lists all the content in the current directory"
